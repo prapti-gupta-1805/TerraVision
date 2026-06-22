@@ -1,0 +1,1846 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-31T16:43:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200990773",
+        "amenity": "charging_station",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.253034,
+              28.588967
+            ],
+            [
+              77.2530361,
+              28.5887838
+            ],
+            [
+              77.2530931,
+              28.5887844
+            ],
+            [
+              77.2530909,
+              28.5889675
+            ],
+            [
+              77.253034,
+              28.588967
+            ]
+          ]
+        ]
+      },
+      "id": "way/1200990773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1230812469",
+        "amenity": "charging_station",
+        "brand": "TerraCharge",
+        "building": "yes",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3054687,
+              28.6251051
+            ],
+            [
+              77.305505,
+              28.625037
+            ],
+            [
+              77.3055519,
+              28.6250563
+            ],
+            [
+              77.3055155,
+              28.6251244
+            ],
+            [
+              77.3054687,
+              28.6251051
+            ]
+          ]
+        ]
+      },
+      "id": "way/1230812469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1318570394",
+        "amenity": "charging_station",
+        "building": "yes",
+        "charging_station:battery_swapping": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2488779,
+              28.5659199
+            ],
+            [
+              77.2488863,
+              28.5658665
+            ],
+            [
+              77.2489104,
+              28.5658695
+            ],
+            [
+              77.2489019,
+              28.5659229
+            ],
+            [
+              77.2488779,
+              28.5659199
+            ]
+          ]
+        ]
+      },
+      "id": "way/1318570394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5694140128",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.228418,
+          28.555381
+        ]
+      },
+      "id": "node/5694140128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6404118987",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Energy Efficiency Services Limited (EESL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2219946,
+          28.6336834
+        ]
+      },
+      "id": "node/6404118987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6404118988",
+        "amenity": "charging_station",
+        "brand": "Ather",
+        "capacity": "2",
+        "level": "0",
+        "operator": "Energy Efficiency Services Limited (EESL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2218243,
+          28.6336147
+        ]
+      },
+      "id": "node/6404118988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6761961056",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2202799,
+          28.6341092
+        ]
+      },
+      "id": "node/6761961056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6761961057",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Energy Efficiency Services Limited (EESL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2208339,
+          28.633798
+        ]
+      },
+      "id": "node/6761961057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918479540",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2203893,
+          28.5854347
+        ]
+      },
+      "id": "node/6918479540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6918479558",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2120476,
+          28.587056
+        ]
+      },
+      "id": "node/6918479558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961442929",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1934263,
+          28.5865591
+        ]
+      },
+      "id": "node/6961442929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961442954",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1934058,
+          28.5866112
+        ]
+      },
+      "id": "node/6961442954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6988161557",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2206422,
+          28.6342608
+        ]
+      },
+      "id": "node/6988161557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6988161559",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2209612,
+          28.634276
+        ]
+      },
+      "id": "node/6988161559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083796927",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197325,
+          28.6350123
+        ]
+      },
+      "id": "node/7083796927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083916144",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "EESL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.217651,
+          28.6341151
+        ]
+      },
+      "id": "node/7083916144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7274257107",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2228545,
+          28.6327684
+        ]
+      },
+      "id": "node/7274257107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8948790096",
+        "amenity": "charging_station",
+        "name": "Plug N Go"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2936333,
+          28.6214714
+        ]
+      },
+      "id": "node/8948790096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9104747115",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2137728,
+          28.5288838
+        ]
+      },
+      "id": "node/9104747115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9237403818",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2233578,
+          28.630944
+        ]
+      },
+      "id": "node/9237403818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9237403820",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2230955,
+          28.6310563
+        ]
+      },
+      "id": "node/9237403820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9684753376",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1977963,
+          28.6040475
+        ]
+      },
+      "id": "node/9684753376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9684753377",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1977808,
+          28.6040394
+        ]
+      },
+      "id": "node/9684753377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9684753378",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1977661,
+          28.6040316
+        ]
+      },
+      "id": "node/9684753378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9739382793",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2547221,
+          28.5483686
+        ]
+      },
+      "id": "node/9739382793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9739382794",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2545695,
+          28.5482674
+        ]
+      },
+      "id": "node/9739382794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9739382795",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2547099,
+          28.5483966
+        ]
+      },
+      "id": "node/9739382795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952802373",
+        "amenity": "charging_station",
+        "covered": "yes",
+        "operator": "ElectriVa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1884585,
+          28.5692695
+        ]
+      },
+      "id": "node/9952802373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952802374",
+        "amenity": "charging_station",
+        "covered": "yes",
+        "operator": "ElectriVa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1883649,
+          28.5692799
+        ]
+      },
+      "id": "node/9952802374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10008994593",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.290246,
+          28.622372
+        ]
+      },
+      "id": "node/10008994593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10008994594",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2902508,
+          28.6223602
+        ]
+      },
+      "id": "node/10008994594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10089151842",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "covered": "yes",
+        "operator": "ElectriVa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2219126,
+          28.5426954
+        ]
+      },
+      "id": "node/10089151842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10240014908",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2234733,
+          28.633573
+        ]
+      },
+      "id": "node/10240014908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10241768254",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2201483,
+          28.5903206
+        ]
+      },
+      "id": "node/10241768254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10241775591",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197587,
+          28.5902808
+        ]
+      },
+      "id": "node/10241775591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10241805232",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2201225,
+          28.5903207
+        ]
+      },
+      "id": "node/10241805232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10241808063",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2199561,
+          28.5903054
+        ]
+      },
+      "id": "node/10241808063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564130631",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2267809,
+          28.6003513
+        ]
+      },
+      "id": "node/10564130631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10576228241",
+        "access": "yes",
+        "amenity": "charging_station",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2229085,
+          28.596925
+        ]
+      },
+      "id": "node/10576228241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10694479767",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2647745,
+          28.563383
+        ]
+      },
+      "id": "node/10694479767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10703875766",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1628441,
+          28.7263595
+        ]
+      },
+      "id": "node/10703875766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10778957417",
+        "access": "private",
+        "amenity": "charging_station",
+        "bus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1802238,
+          28.7242899
+        ]
+      },
+      "id": "node/10778957417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10905351902",
+        "amenity": "charging_station",
+        "disused:amenity": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195272,
+          28.6342282
+        ]
+      },
+      "id": "node/10905351902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10908485585",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.203949,
+          28.6993047
+        ]
+      },
+      "id": "node/10908485585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10908485595",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.203999,
+          28.6992861
+        ]
+      },
+      "id": "node/10908485595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10922054270",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2199032,
+          28.6315233
+        ]
+      },
+      "id": "node/10922054270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10948867107",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2349474,
+          28.5404442
+        ]
+      },
+      "id": "node/10948867107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11030050466",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2369501,
+          28.5715108
+        ]
+      },
+      "id": "node/11030050466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11030050467",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2369881,
+          28.5715706
+        ]
+      },
+      "id": "node/11030050467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11083172400",
+        "amenity": "charging_station",
+        "brand": "Charge Karo",
+        "capacity": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2455856,
+          28.5443474
+        ]
+      },
+      "id": "node/11083172400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11083172401",
+        "amenity": "charging_station",
+        "brand": "Charge Karo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2455165,
+          28.5443273
+        ]
+      },
+      "id": "node/11083172401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11132023351",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2205342,
+          28.5844378
+        ]
+      },
+      "id": "node/11132023351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11148213616",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "capacity:motorcar": "2",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2890724,
+          28.622435
+        ]
+      },
+      "id": "node/11148213616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11288533005",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2594429,
+          28.5497356
+        ]
+      },
+      "id": "node/11288533005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11288533006",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2594888,
+          28.5497042
+        ]
+      },
+      "id": "node/11288533006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11288533008",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2595584,
+          28.5496589
+        ]
+      },
+      "id": "node/11288533008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11288533010",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2595256,
+          28.5496792
+        ]
+      },
+      "id": "node/11288533010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11288533011",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2594016,
+          28.5497534
+        ]
+      },
+      "id": "node/11288533011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11368545133",
+        "amenity": "charging_station",
+        "brand": "Charge Karo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2381099,
+          28.5697606
+        ]
+      },
+      "id": "node/11368545133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11406900271",
+        "amenity": "charging_station",
+        "brand": "Tata Power",
+        "capacity": "1",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2372754,
+          28.6019401
+        ]
+      },
+      "id": "node/11406900271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11414388215",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2343743,
+          28.5508417
+        ]
+      },
+      "id": "node/11414388215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11414388216",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2343614,
+          28.5508303
+        ]
+      },
+      "id": "node/11414388216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11421789517",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28703,
+          28.6177007
+        ]
+      },
+      "id": "node/11421789517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11421789521",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2870367,
+          28.6176864
+        ]
+      },
+      "id": "node/11421789521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11449177423",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1433393,
+          28.6606575
+        ]
+      },
+      "id": "node/11449177423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454822427",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2532299,
+          28.6672518
+        ]
+      },
+      "id": "node/11454822427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454822430",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2532856,
+          28.6672527
+        ]
+      },
+      "id": "node/11454822430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11454822431",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2532583,
+          28.667252
+        ]
+      },
+      "id": "node/11454822431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11478464616",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2989161,
+          28.6229566
+        ]
+      },
+      "id": "node/11478464616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601441778",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1562309,
+          28.6531076
+        ]
+      },
+      "id": "node/11601441778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601441779",
+        "amenity": "charging_station",
+        "branch": "Shadipur",
+        "charging_station:battery_swapping": "yes",
+        "name": "Switch Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1563495,
+          28.6530158
+        ]
+      },
+      "id": "node/11601441779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601441781",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1561984,
+          28.6531276
+        ]
+      },
+      "id": "node/11601441781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11637354348",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2175045,
+          28.6338798
+        ]
+      },
+      "id": "node/11637354348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11642004107",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2319249,
+          28.6272979
+        ]
+      },
+      "id": "node/11642004107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11697454694",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2510865,
+          28.5508115
+        ]
+      },
+      "id": "node/11697454694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11697454712",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2510569,
+          28.5508585
+        ]
+      },
+      "id": "node/11697454712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11771960493",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.195939,
+          28.5544887
+        ]
+      },
+      "id": "node/11771960493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795617114",
+        "amenity": "charging_station",
+        "brand": "Xicom",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196866,
+          28.6286105
+        ]
+      },
+      "id": "node/11795617114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11821495340",
+        "amenity": "charging_station",
+        "brand": "Charj Karo",
+        "capacity": "3",
+        "check_date": "2025-09-01",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2085882,
+          28.6799791
+        ]
+      },
+      "id": "node/11821495340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11871740090",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2245367,
+          28.5649281
+        ]
+      },
+      "id": "node/11871740090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11873258339",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212758,
+          28.5540272
+        ]
+      },
+      "id": "node/11873258339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11875814624",
+        "amenity": "charging_station",
+        "fee": "yes",
+        "name": "Ganpati Smart Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2080457,
+          28.6775315
+        ]
+      },
+      "id": "node/11875814624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11875926233",
+        "amenity": "charging_station",
+        "brand": "EESL",
+        "capacity": "4",
+        "fee": "no",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1948236,
+          28.6219707
+        ]
+      },
+      "id": "node/11875926233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11882034350",
+        "amenity": "charging_station",
+        "charging_station:battery_swapping": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2328267,
+          28.5416057
+        ]
+      },
+      "id": "node/11882034350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11882034351",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2317719,
+          28.5333783
+        ]
+      },
+      "id": "node/11882034351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11882034353",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2328551,
+          28.541597
+        ]
+      },
+      "id": "node/11882034353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11891087067",
+        "amenity": "charging_station",
+        "fixme": "Battery swapping station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2547433,
+          28.5483295
+        ]
+      },
+      "id": "node/11891087067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11891087068",
+        "amenity": "charging_station",
+        "fixme": "Battery swapping station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2547553,
+          28.5482916
+        ]
+      },
+      "id": "node/11891087068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11934676233",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2407912,
+          28.586642
+        ]
+      },
+      "id": "node/11934676233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11982372933",
+        "amenity": "charging_station",
+        "operator": "One Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2935572,
+          28.5964138
+        ]
+      },
+      "id": "node/11982372933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11982458750",
+        "amenity": "charging_station",
+        "operator": "CESL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2935572,
+          28.5964138
+        ]
+      },
+      "id": "node/11982458750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12031201050",
+        "amenity": "charging_station",
+        "brand": "Sun Mobility",
+        "charging_station:battery_swapping": "yes",
+        "covered": "yes",
+        "level": "0",
+        "name": "Swap Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.264671,
+          28.5442512
+        ]
+      },
+      "id": "node/12031201050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064267225",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2873054,
+          28.6382309
+        ]
+      },
+      "id": "node/12064267225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12098546110",
+        "amenity": "charging_station",
+        "brand": "Ather",
+        "capacity": "2",
+        "level": "0",
+        "operator": "Energy Efficiency Services Limited (EESL)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.222004,
+          28.6316265
+        ]
+      },
+      "id": "node/12098546110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192527479",
+        "amenity": "charging_station",
+        "brand": "Statiq",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1860742,
+          28.5133039
+        ]
+      },
+      "id": "node/12192527479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12196467738",
+        "addr:place": "Maurice Nagar",
+        "amenity": "charging_station",
+        "brand": "Battery Smart",
+        "capacity": "3",
+        "check_date": "2025-08-31",
+        "fee": "yes",
+        "level": "0",
+        "ref": "P224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2067275,
+          28.688648
+        ]
+      },
+      "id": "node/12196467738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12352455245",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.316582,
+          28.6492602
+        ]
+      },
+      "id": "node/12352455245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12596574170",
+        "amenity": "charging_station",
+        "brand": "Electric Vehicle Charging Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3000898,
+          28.6622203
+        ]
+      },
+      "id": "node/12596574170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12647193426",
+        "amenity": "charging_station",
+        "brand": "Yuma",
+        "charging_station:battery_swapping": "yes",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0429824,
+          28.5910595
+        ]
+      },
+      "id": "node/12647193426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12672890507",
+        "amenity": "charging_station",
+        "charging_station:battery_swapping": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2331036,
+          28.5904687
+        ]
+      },
+      "id": "node/12672890507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12811975823",
+        "amenity": "charging_station",
+        "brand": "Okaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2427016,
+          28.5679245
+        ]
+      },
+      "id": "node/12811975823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12823839873",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3056013,
+          28.6251684
+        ]
+      },
+      "id": "node/12823839873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12894372007",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2449181,
+          28.6112384
+        ]
+      },
+      "id": "node/12894372007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12901933482",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.226213,
+          28.5875463
+        ]
+      },
+      "id": "node/12901933482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12901933483",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.226218,
+          28.58752
+        ]
+      },
+      "id": "node/12901933483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12903526837",
+        "amenity": "charging_station",
+        "brand": "Yuma",
+        "charging_station:battery_swapping": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2390952,
+          28.5810704
+        ]
+      },
+      "id": "node/12903526837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12972970667",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1883978,
+          28.5793023
+        ]
+      },
+      "id": "node/12972970667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12973875562",
+        "access": "no",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0813217,
+          28.5613597
+        ]
+      },
+      "id": "node/12973875562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13110034737",
+        "amenity": "charging_station",
+        "brand": "BAAZ",
+        "check_date": "2025-08-31",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.205345,
+          28.6856903
+        ]
+      },
+      "id": "node/13110034737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13110034738",
+        "amenity": "charging_station",
+        "brand": "Charj Karo",
+        "check_date": "2025-08-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2053595,
+          28.6857175
+        ]
+      },
+      "id": "node/13110034738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13294609048",
+        "amenity": "charging_station",
+        "description": "CCS & CHA 25kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2413624,
+          28.587169
+        ]
+      },
+      "id": "node/13294609048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13351067902",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2871601,
+          28.6185254
+        ]
+      },
+      "id": "node/13351067902"
+    }
+  ]
+}
