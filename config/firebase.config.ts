@@ -10,13 +10,13 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDd7R11VljfXhWAQmkLMK-1vqQb10Xc79M",
-  authDomain: "terravision-b0eb4.firebaseapp.com",
-  projectId: "terravision-b0eb4",
-  storageBucket: "terravision-b0eb4.firebasestorage.app",
-  messagingSenderId: "165414777454",
-  appId: "1:165414777454:web:704e2667f344198f456c7f",
-  measurementId: "G-8T83ZLL7YH"
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
 };
 
 
